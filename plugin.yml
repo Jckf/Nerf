@@ -1,0 +1,7 @@
+name: Nerf
+main: no.jckf.nerf.Nerf
+version: 1.0
+commands:
+   nerf:
+      description: TNT nerfing.
+      usage: /<command> <radius> <limit>
